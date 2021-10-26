@@ -1,3 +1,5 @@
+%This code contains the numerical experiments with the step adaptive RKMK method based on Dormand-Prince pair (5,4)
+
 clc;
 clear all;
 close all;
